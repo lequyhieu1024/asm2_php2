@@ -1,0 +1,19 @@
+{
+  "name": "admin/asignment2",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "lequyhieu1024",
+      "email": "lequyhieu1024@gmail.com"
+    }
+  ],
+  "require": {
+    "phroute/phroute": "^2.2",
+    "eftec/bladeone": "^4.9",
+    "twbs/bootstrap": "^5.3"
+  }
+}
